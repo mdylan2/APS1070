@@ -1,2 +1,4 @@
 # APS1070
-Projects from University of Toronto APS1070 Course (Foundations of Data Analytics and Machine Learning)
+### Author: Dylan Mendonca
+
+This repository contains the projects I completed for the course APS1070 (Foundations of Data Analytics and Machine Learning) at the University of Toronto. The projects were interactive and include both a tutorial and exercise component. Hope it helps!
